@@ -1,0 +1,7 @@
+<lcgdict>
+  <class name="FiltFuncs" persistent="false"/>
+  <class name="RateFuncs" persistent="true"/>
+  <class name="QCDWeightCalc" persistent="false"/>
+  <class name="std::map<int,std::vector<int> >"/>
+</lcgdict>
+
